@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3DP", "3DP\3DP.vcxproj", "{AD0708BE-7858-4EEE-9DB6-C877F18F8F50}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 03", "3DP\3DP.vcxproj", "{AD0708BE-7858-4EEE-9DB6-C877F18F8F50}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 07", "Lecture 07\Lecture 07.vcxproj", "{5A39299E-76F5-420C-BBD5-6A0379A2A9F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{AD0708BE-7858-4EEE-9DB6-C877F18F8F50}.Release|x64.Build.0 = Release|x64
 		{AD0708BE-7858-4EEE-9DB6-C877F18F8F50}.Release|x86.ActiveCfg = Release|Win32
 		{AD0708BE-7858-4EEE-9DB6-C877F18F8F50}.Release|x86.Build.0 = Release|Win32
+		{5A39299E-76F5-420C-BBD5-6A0379A2A9F6}.Debug|x64.ActiveCfg = Debug|x64
+		{5A39299E-76F5-420C-BBD5-6A0379A2A9F6}.Debug|x64.Build.0 = Debug|x64
+		{5A39299E-76F5-420C-BBD5-6A0379A2A9F6}.Debug|x86.ActiveCfg = Debug|Win32
+		{5A39299E-76F5-420C-BBD5-6A0379A2A9F6}.Debug|x86.Build.0 = Debug|Win32
+		{5A39299E-76F5-420C-BBD5-6A0379A2A9F6}.Release|x64.ActiveCfg = Release|x64
+		{5A39299E-76F5-420C-BBD5-6A0379A2A9F6}.Release|x64.Build.0 = Release|x64
+		{5A39299E-76F5-420C-BBD5-6A0379A2A9F6}.Release|x86.ActiveCfg = Release|Win32
+		{5A39299E-76F5-420C-BBD5-6A0379A2A9F6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
